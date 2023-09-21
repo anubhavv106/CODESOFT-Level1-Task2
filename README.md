@@ -7,7 +7,6 @@ A simple calculator web app with a glass effect and soft-looking keys. Perform b
 - Addition, subtraction, multiplication, and division.
 - Responsive design with a glass effect for a modern look.
 - Dark mode and Light mode.
-- Added New Themes.
 - Soft-looking keys for a user-friendly experience.
 - Clear button to reset the input.
 - Error handling to show "Error" for invalid inputs.
