@@ -29,7 +29,7 @@ git clone https://github.com/anubhavv106/CODESOFT-Level1-Task2
 
 ## 🎥 Demo Video
 
-https://github.com/anubhavv106/LGMVIP-Web-Task-04.github.io/assets/112748712/b4747e58-efd7-4141-b990-cd288f4261d4
+https://github.com/anubhavv106/CODESOFT-Level1-Task2/assets/112748712/87ded4bf-0b39-4880-9def-1792fd79d2fa
 
 ## 📝 License
 
